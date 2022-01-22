@@ -1,6 +1,6 @@
 #!/bin/bash
 #rsync pxeinstall
-#
+#su
 
 sdec="/var/www/html/autoinstall"
 #ddec="/var/www/html/pxebak/tftpboot_dir"
